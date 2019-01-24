@@ -1,10 +1,10 @@
 $(document).ready(function() {
   var userFeed = new Instafeed({
     get: "user",
-    userId: "4556297061",
+    userId: "10369221",
     limit: 12,
     resolution: "standard_resolution",
-    accessToken: "4556297061.1677ed0.4aa1c2e535c14c68a10e6725d26b8c4b",
+    accessToken: "10369221.1677ed0.54103aa4f2914ca394f02b64642068c7",
     sortBy: "most-recent",
     template:
       '<div class="col-lg-4 instaimg"><a href="{{image}}" title="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}" class="img-fluid"/></a></div>'
