@@ -10,8 +10,8 @@ include "send_email.php";
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="../css/bootstrap.min.css">
-<link rel="stylesheet" href="../css/magnific.css">
+<link rel="stylesheet" href="./css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/magnific.css">
 <style>
   body,
   h1,
@@ -70,7 +70,7 @@ include "send_email.php";
   <!-- Icon Bar (Sidebar - hidden on small screens) -->
   <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
     <!-- Avatar image in top left corner -->
-    <img src="../images/jbw.jpg" style="width:100%" width="150" height="150">
+    <img src="./images/jbw.jpg" style="width:100%" width="150" height="150">
     <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
       <i class="fa fa-home w3-xxlarge"></i>
       <p>HOME</p>
@@ -105,7 +105,7 @@ include "send_email.php";
     <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
       <h1 class="w3-jumbo">
         <span class="w3-hide-small"></span> Jefferson Montalvo.</h1>
-      <img src="../images/jbw.jpg" alt="" class="w3-image" width="640" height="799">
+      <img src="./images/jbw.jpg" alt="" class="w3-image" width="640" height="799">
     </header>
 
     <!-- About Section -->
@@ -132,13 +132,13 @@ include "send_email.php";
             <div class="popup-gallery">
 
               <a href="one.jpg" title="The Cleaner">
-                <img src="../images/one.jpg" width="100%">
+                <img src="./images/one.jpg" width="100%">
               </a>
               <a href="two.jpg" title="Winter Dance">
-                <img src="../images/two.jpg" width="100%">
+                <img src="./images/two.jpg" width="100%">
               </a>
               <a href="three.jpg" title="The Uninvited Guest">
-                <img src="../images/three.jpg" width="100%">
+                <img src="./images/three.jpg" width="100%">
               </a>
             </div>
           </div>
@@ -146,16 +146,16 @@ include "send_email.php";
           <div class="popup-gallery">
             <div class="w3-half">
               <a href="sec.jpg" title="Oh no, not again!">
-                <img src="../images/sec.jpg" width="100%">
+                <img src="./images/sec.jpg" width="100%">
               </a>
               <a href="smoke.jpg" title="Swan Lake">
-                <img src="../images/smoke.jpg" width="100%">
+                <img src="./images/smoke.jpg" width="100%">
               </a>
               <a href="moon.jpg" title="Swan Lake">
-                <img src="../images/moon.jpg" width="100%">
+                <img src="./images/moon.jpg" width="100%">
               </a>
               <a href="adv.jpg" title="Swan Lake">
-                <img src="../images/adv.jpg" width="100%">
+                <img src="./images/adv.jpg" width="100%">
               </a>
             </div>
           </div>
@@ -183,10 +183,10 @@ include "send_email.php";
     </div>
 
 
-    <script src="../javascript/jquery.min.js"></script>
-    <script src="../javascript/instafeed.min.js"></script>
-    <script src="../javascript/magnific.min.js"></script>
-    <script src="../javascript/custom.js"></script>
+    <script src="./javascript/jquery.min.js"></script>
+    <script src="./javascript/instafeed.min.js"></script>
+    <script src="./javascript/magnific.min.js"></script>
+    <script src="./javascript/custom.js"></script>
 
     <!--End of Instagram-->
   </div>
