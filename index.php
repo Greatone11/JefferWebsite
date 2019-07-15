@@ -1,5 +1,4 @@
 <?php 
-include "send_email.php";
 
 ?>
 <!DOCTYPE html>
@@ -205,8 +204,8 @@ include "send_email.php";
         <i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: jeffersonm2323@gmail.com</p>
     </div>
     <br>
-    <p>Lets get in touch. Send me a message:</p>
 
+<!--
     <form action="send_email.php" method="post" >
       <p>
         <input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name">
